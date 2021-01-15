@@ -18,6 +18,8 @@ class Customer extends React.Component {
 // customer 클래스는 react의 component 형태로 작성 된 클래스
 // App.js로 간다 슝
 
+
+
 // data 출력할때는 프롭스 이용
 
 export default Customer;
